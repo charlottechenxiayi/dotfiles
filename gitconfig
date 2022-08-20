@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = xiayic@middlebury.edu
+	name = charlotte chen
